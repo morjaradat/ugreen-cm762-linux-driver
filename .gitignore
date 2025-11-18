@@ -1,0 +1,45 @@
+# Compiled kernel modules
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+.*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+*.o.d
+
+# Debian package build
+debian-package/
+*.deb.bak
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.orig
+*~
+
+# Temporary files
+*.tmp
+.cache/
