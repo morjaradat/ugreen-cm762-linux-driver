@@ -33,8 +33,8 @@ sudo apt-get install -f
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/morjaradat/ugreen-cm762-linux-driver.git
+cd ugreen-cm762-linux-driver/aic8800_linux_driver
 
 # Navigate to driver directory
 cd aic8800_linux_driver
